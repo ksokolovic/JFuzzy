@@ -30,6 +30,14 @@ public class ProxyFuzzySet extends FuzzyTerm {
      */
     protected FuzzySet set;
 
+    /**
+     * Constructor to initialize the proxy of the given fuzzy set.
+     * @param set Fuzzy set to create a proxy for.
+     */
+    public ProxyFuzzySet(FuzzySet set) {
+        this.set = set;
+    }
+
     @Override
     public double getDom() {
         return set.getDom();
