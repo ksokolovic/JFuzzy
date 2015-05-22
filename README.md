@@ -5,7 +5,7 @@
 
 ## Documentation 
 
-The documentation can be reached at the [wiki page](/wiki/).
+The documentation can be reached at the [wiki page](https://bitbucket.org/sokolovic/jfuzzy/wiki).
 
 # Contributing
 * * *
