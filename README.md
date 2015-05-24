@@ -41,7 +41,7 @@ After getting the information on successful build, the target JAR is in the ```/
 
 ## Contributors
 
-In case you discover any bugs or want to contribute to the project in any way, feel free to raise an issue [here](https://bitbucket.org/sokolovic/jfuzzy/issues).
+In case you discover any bugs or want to contribute to the project in any way, feel free to raise an issue [here](https://bitbucket.org/sokolovic/jfuzzy/issues). You can also join publicly available [HipChat channel](https://www.hipchat.com/gZsqKjkwJ) for a discussion. 
 
 | Name            | E-mail address                       | Skype ID            |
 |:----------------|:------------------------------------:|:-------------------:|
@@ -69,4 +69,3 @@ In case you discover any bugs or want to contribute to the project in any way, f
 > DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
 > ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
 > DEALINGS IN THE SOFTWARE.
-
